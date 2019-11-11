@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/emoji-app/static/css/main.542f1a96.chunk.css",
+    "main.js": "/emoji-app/static/js/main.0e426803.chunk.js",
+    "main.js.map": "/emoji-app/static/js/main.0e426803.chunk.js.map",
+    "runtime-main.js": "/emoji-app/static/js/runtime-main.9f932d53.js",
+    "runtime-main.js.map": "/emoji-app/static/js/runtime-main.9f932d53.js.map",
+    "static/js/2.67521505.chunk.js": "/emoji-app/static/js/2.67521505.chunk.js",
+    "static/js/2.67521505.chunk.js.map": "/emoji-app/static/js/2.67521505.chunk.js.map",
+    "index.html": "/emoji-app/index.html",
+    "precache-manifest.d168fde53dfdd585e1b712da1a930cda.js": "/emoji-app/precache-manifest.d168fde53dfdd585e1b712da1a930cda.js",
+    "service-worker.js": "/emoji-app/service-worker.js",
+    "static/css/main.542f1a96.chunk.css.map": "/emoji-app/static/css/main.542f1a96.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9f932d53.js",
+    "static/js/2.67521505.chunk.js",
+    "static/css/main.542f1a96.chunk.css",
+    "static/js/main.0e426803.chunk.js"
+  ]
+}
